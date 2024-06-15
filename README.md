@@ -1,2 +1,2 @@
-# Bits_assignment_gaurav
+# my_code
 In this repo I have my bits assignments
